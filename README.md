@@ -1,3 +1,3 @@
-# ASD
+# ADV
 <br>
-new
+Astronomical Data Visualizer
