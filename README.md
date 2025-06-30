@@ -1,3 +1,3 @@
 # ADV
 <br>
-Astronomical Data Visualizer
+<i>Astronomical Data Visualizer</i>
